@@ -1,0 +1,3 @@
+##### * First Using Android studio upload the App folder to it.
+      * Then run the back.py file into the terminal using C:\Users\DELL\AppData\Local\Programs\Python\Python311 . Use python3 11 version to run this file 
+      * After runing this file you will get the link / api link 
